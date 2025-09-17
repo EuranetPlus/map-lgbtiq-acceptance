@@ -1,13 +1,13 @@
 {
   "heading": "Közvélemény az azonos nemű párok jogairól az EU-ban",
-  "subheading": "Azon személyek teljes százalékos aránya, akik úgy gondolják, hogy nincs semmi baj két azonos nemű személy közötti szexuális kapcsolatban. EU átlag: 72%",
-  "legend1": "Nincs elérhető adat",
+  "subheading": "Azoknak az egyéneknek az összesített százalékos aránya, akik úgy vélik, hogy nincs semmi baj két azonos nemű személy közötti szexuális kapcsolatban. EU-s átlag: 72%",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

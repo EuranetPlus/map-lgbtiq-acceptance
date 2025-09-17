@@ -1,13 +1,13 @@
 {
-  "heading": "Opinia publică cu privire la drepturile cuplurilor de același sex în UE",
-  "subheading": "Procentul total de indivizi care cred că nu este nimic greșit într-o relație sexuală între două persoane de același sex. Media UE: 72%",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Opinia publică privind drepturile cuplurilor de același sex în UE",
+  "subheading": "Procentul total de persoane care cred că nu este nimic în neregulă cu o relație sexuală între două persoane de același sex. Media UE: 72%",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "",
   "textSourceDescription": "Sursă",
   "textSource": "Eurobarometru",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

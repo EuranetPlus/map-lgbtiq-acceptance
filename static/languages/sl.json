@@ -1,13 +1,13 @@
 {
   "heading": "Javno mnenje o pravicah istospolnih parov v EU",
-  "subheading": "Skupni odstotek posameznikov, ki menijo, da v spolnem odnosu med dvema istospolnima osebama ni nič narobe. Povprečje EU: 72 %",
-  "legend1": "Ni podatkov",
+  "subheading": "Skupni odstotek posameznikov, ki verjamejo, da ni nič narobe v spolnem odnosu med dvema osebama istega spola. Povprečje EU: 72 %",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
   "textCountryClick": "Kliknite za več informacij"
 }

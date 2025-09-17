@@ -1,6 +1,6 @@
 {
-  "heading": "Publieke opinie over de rechten van koppels van hetzelfde geslacht in de EU",
-  "subheading": "Totaal percentage personen dat gelooft dat er niets mis is in een seksuele relatie tussen twee personen van hetzelfde geslacht. EU-gemiddelde: 72%",
+  "heading": "Publieke opinie over de rechten van paren van hetzelfde geslacht in de EU",
+  "subheading": "Totaal percentage personen dat gelooft dat er niets mis is met een seksuele relatie tussen twee personen van hetzelfde geslacht. EU-gemiddelde: 72%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

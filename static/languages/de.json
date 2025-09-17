@@ -1,13 +1,13 @@
 {
   "heading": "Öffentliche Meinung zu den Rechten gleichgeschlechtlicher Paare in der EU",
-  "subheading": "Gesamtprozentsatz der Personen, die glauben, dass an einer sexuellen Beziehung zwischen zwei Personen des gleichen Geschlechts nichts falsch ist. EU-Durchschnitt: 72 %",
+  "subheading": "Gesamtanteil der Personen, die glauben, dass an einer sexuellen Beziehung zwischen zwei Personen des gleichen Geschlechts nichts falsch ist. EU-Durchschnitt: 72 %",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

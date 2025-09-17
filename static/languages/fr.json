@@ -1,13 +1,13 @@
 {
   "heading": "L'opinion publique sur les droits des couples de même sexe dans l'UE",
-  "subheading": "Pourcentage total d'individus qui croient qu'il n'y a rien de mal dans une relation sexuelle entre deux personnes du même sexe. Moyenne UE : 72 %",
-  "legend1": "Pas de données disponibles",
+  "subheading": "Pourcentage total de personnes estimant qu'une relation sexuelle entre deux personnes de même sexe est acceptable. Moyenne de l'UE : 72 %.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurobaromètre",
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
+  "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_fr-1.pdf",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

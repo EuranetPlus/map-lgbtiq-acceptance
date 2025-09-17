@@ -1,7 +1,7 @@
 {
-  "heading": "Yleinen mielipide samaa sukupuolta olevien parien oikeuksista EU:ssa",
-  "subheading": "Niiden henkilöiden kokonaisprosenttiosuus, jotka uskovat, että kahden samaa sukupuolta olevan henkilön välisessä seksuaalisessa suhteessa ei ole mitään vikaa. EU:n keskiarvo: 72 %",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Julkinen mielipide samaa sukupuolta olevien parien oikeuksista EU:ssa",
+  "subheading": "Niiden yksilöiden kokonaisprosenttiosuus, jotka uskovat, ettei kahden samaa sukupuolta olevan henkilön välisessä seksuaalisessa suhteessa ole mitään väärää. EU:n keskiarvo: 72 %",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
   "textSource": "Eurobarometri",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://commission.europa.eu/system/files/2019-10/ebs_493_data_fact_lgbti_eu_en-1.pdf",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }
